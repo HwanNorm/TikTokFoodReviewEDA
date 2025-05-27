@@ -178,25 +178,6 @@ import numpy as np
 - **Comparative Analysis**: Cross-category component comparison
 - **Visualization Suite**: Bar charts, stacked charts, pie charts, box plots
 
-## File Structure
-
-```
-├── tiktok_videos_analysis.py    # Main analysis script
-├── Annotation.xlsx              # Video annotation dataset (130 videos)
-├── Survey3.xlsx                 # Survey response data (45 responses)  
-├── tiktok_analysis_output.pdf   # Code execution outputs
-├── images/                      # Generated visualizations
-│   ├── component_frequency_chart.png
-│   ├── category_comparison_stacked.png
-│   ├── audio_clarity_pie_chart.png
-│   ├── transcript_components_frequency.png
-│   ├── survey_mean_scores.png
-│   ├── survey_boxplots.png
-│   ├── viewing_frequency.png
-│   └── viewing_timeframes.png
-└── README.md
-```
-
 ## Results Summary
 
 The analysis reveals that successful viral TikTok food review videos consistently include:
