@@ -69,7 +69,7 @@ We asked 45 people (friends, family, classmates) to fill out a survey about what
 Here's what our analysis revealed:
 
 ### Most Common Elements in Viral Videos
-![Component Frequency Analysis](images/component_frequency_chart.png)
+![Component Frequency Analysis](images/component_frequency_chart.png) 
 *This chart shows what appears most often in viral food videos - food presence leads at 99.2%!*
 
 ### What Makes Videos Engaging?
