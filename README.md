@@ -69,29 +69,36 @@ We asked 45 people (friends, family, classmates) to fill out a survey about what
 Here's what our analysis revealed:
 
 ### Most Common Elements in Viral Videos
-![Component Frequency Analysis](images/component_frequency_chart.png) 
+<img src="images/component_frequency_chart.png" alt="Most Common Components in Viral Videos" width="800"/>
+
 *This chart shows what appears most often in viral food videos - food presence leads at 99.2%!*
 
 ### What Makes Videos Engaging?
-![Category Comparison](images/category_comparison_stacked.png)
+<img src="images/category_comparison_stacked.png" alt="Category Comparison of Video Elements" width="800"/>
+
 *Comparison of different video elements across Text, Audio, Visual, and Audio categories*
 
 ### Audio Quality Distribution
-![Audio Clarity](images/audio_clarity_pie_chart.png)
+<img src="images/audio_clarity_pie_chart.png" alt="Audio Quality Distribution" width="600"/>
+
 *93% of viral videos have good audio quality - proof that sound matters!*
 
 ### Survey Results - What Viewers Want
-![Survey Scores](images/survey_mean_scores.png)
+<img src="images/survey_mean_scores.png" alt="Survey Mean Scores" width="800"/>
+
 *Video quality and food filming styles scored highest with viewers*
 
-![Survey Distribution](images/survey_boxplots.png)
+<img src="images/survey_boxplots.png" alt="Survey Response Distribution" width="800"/>
+
 *Distribution of viewer preferences across different factors*
 
 ### Viewing Patterns
-![Viewing Frequency](images/viewing_frequency.png)
+<img src="images/viewing_frequency.png" alt="Viewing Frequency Patterns" width="600"/>
+
 *Most people encounter food videos "often" while scrolling*
 
-![Viewing Times](images/viewing_timeframes.png)
+<img src="images/viewing_timeframes.png" alt="Peak Viewing Times" width="600"/>
+
 *Evening is the prime time for food video consumption*
 
 ## 🚀 Want to Run This Analysis Yourself?
